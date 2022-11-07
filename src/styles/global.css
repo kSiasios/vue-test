@@ -1,0 +1,10 @@
+:root {
+  --primary-clr: #edc541;
+  --light-clr: #ffe693;
+  --mid-dark-clr: #ad9031;
+  --dark-clr: #6e5b1f;
+}
+
+* {
+  outline: none;
+}
